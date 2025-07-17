@@ -10,6 +10,7 @@
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
@@ -17,7 +18,58 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.env
 
+# logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Firebase (if you're using it)
+.firebase/
+firebase-debug.log
+firestore-debug.log
+
+# Next.js (if applicable)
+.next/
+out/
+
+# Temporary folders
+tmp/
+temp/
+
+# Package lock files (choose one based on your package manager)
+# package-lock.json  # uncomment if using yarn
+# yarn.lock          # uncomment if using npm
+
+# Build tools
+.cache/
+.parcel-cache/
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
