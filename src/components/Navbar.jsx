@@ -34,7 +34,7 @@ const Navbar = ({ notifications = [] }) => {
 
   return (
     <nav className="bg-white border border-slate-200 p-6 rounded-2xl shadow-xl flex justify-between items-center mb-6 relative">
-      <h1 className="text-xl font-bold text-blue-600">Lazarus Admin Dashboard</h1>
+      <h1 className="text-xl font-bold text-blue-600">Lazarus Mint Admin</h1>
       <div className="flex items-center space-x-4 relative">
         <button
           ref={bellRef}
