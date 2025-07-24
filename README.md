@@ -19,3 +19,6 @@ Welcome to the official **Admin Panel** for **Lazarus Mint** — the NFT Rewards
 - **Deployment:** Docker + Firebase Hosting
 
 
+## Live 
+
+- Visit - https://nft-marketplace-admin-5e6c0.web.app/
