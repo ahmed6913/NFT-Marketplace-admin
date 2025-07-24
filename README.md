@@ -22,3 +22,16 @@ Welcome to the official **Admin Panel** for **Lazarus Mint** — the NFT Rewards
 ## Live 
 
 - Visit - https://nft-marketplace-admin-5e6c0.web.app/
+
+
+## License 
+
+All Rights Reserved.
+
+© 2025 Shaikh Saim
+
+This code is for personal portfolio display only.  
+Use, copy, modify, or redistribute of any part of this repository is **not permitted** without prior written consent.
+
+Unauthorized use is strictly prohibited.
+
