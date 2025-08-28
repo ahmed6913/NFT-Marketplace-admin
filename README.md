@@ -14,10 +14,60 @@ Welcome to the official **Admin Panel** for **Lazarus Mint** — the NFT Rewards
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js + Tailwind CSS 
-- **Backend:** Go + MySQL db + APIs
+- **Backend:** Go + APIs
 - **NFTs:** Thirdweb Edition Drop (ERC1155)
 - **Deployment:** Docker + Firebase Hosting
 
+
+### 📦 Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js >= 16
+- npm or yarn
+Optional: Firebase CLI for Firestore/Storage operations
+
+### 🛠️ Local Development
+
+1. Clone the repository
+```
+git clone https://github.com/your-username/nft-marketplace.git
+cd nft-marketplace
+```
+2. Install dependencies
+```
+npm install
+# or
+yarn install
+```
+### 📦 Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js >= 16
+- npm or yarn
+Optional: Firebase CLI for Firestore/Storage operations
+
+### 🛠️ Local Development
+
+1. Clone the repository
+```
+git clone https://github.com/your-username/nft-marketplace.git
+cd nft-marketplace
+```
+2. Install dependencies
+```
+npm install
+# or
+yarn install
+```
+3. Run the development server
+```
+npm start
+# or
+yarn start
+```
+App will be available at: http://localhost:3000
 
 ## Live 
 
